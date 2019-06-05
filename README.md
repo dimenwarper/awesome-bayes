@@ -4,6 +4,7 @@ List of resources for bayesian inference
 ## Books
 
 * [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
+* [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 * [Bayesian methods for hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Bayesian Analysis with Python](https://www.amazon.com/gp/product/1789341655/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
