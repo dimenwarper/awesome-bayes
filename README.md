@@ -1,4 +1,4 @@
-# awesome-bayes
+# Awesome Bayes
 List of resources for bayesian inference
 
 ## Books
