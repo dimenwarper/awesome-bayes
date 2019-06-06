@@ -28,6 +28,7 @@ Diagnostics and visualization
 
 * 
 * [Intro to variational inference via mean field approx](https://blog.evjang.com/2016/08/variational-bayes.html)
+* [David Blei's Variational Inference tutorial](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 * [Understanding Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/)
 
 
