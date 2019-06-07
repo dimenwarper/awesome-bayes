@@ -35,6 +35,7 @@ Diagnostics and visualization
 ## Blogs and Tutorials
 
 * [Michael Clark's Blog on Stat modeling, Bayesian inference](https://m-clark.github.io/documents.html)
+* [The MCMC interactive gallery](https://chi-feng.github.io/mcmc-demo/): Build intuition for common MCMC routines using interactive demos. A walkthrough of the demos can be found [here](http://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/).
 * [Intro to variational inference via mean field approx](https://blog.evjang.com/2016/08/variational-bayes.html)
 * [David Blei's Variational Inference tutorial](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 * [Understanding Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/)
