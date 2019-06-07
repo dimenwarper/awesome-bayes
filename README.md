@@ -11,14 +11,22 @@ List of resources for bayesian inference
 
 ## Packages
 
-General inference
-* [Stan](https://mc-stan.org/)
-* [PyMC3](https://docs.pymc.io/)
-* [edward2/tfprobability](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/python/edward2)
+### General inference
+* [BUGS](http://www.openbugs.net/w/FrontPage): Bayesian Inference Using Gibbs Sampling. Oldest of the Bayesian inference platforms, tried and tested. Has a Windows friendly version, WinBUGS. R, python and many other language bindings, GUIs and 
+* [JAGS](http://mcmc-jags.sourceforge.net/): Just another Gibbs sampler, similar to BUGS - focused on cross-platform, usability. Also tried and tested. R and python bindings too.
+* [Stan](https://mc-stan.org/): Full-featured Bayesian inference with R and python bindings. Based on Hamiltonian MC and NUTS. Current favorite of the community it seems with lots of examples, docs.
+* [PyMC3](https://docs.pymc.io/): Probabilistic programming in Python/Theano. PyMC4 is in dev, will use Tensorflow as backend. Great API and interface, but hindered by Theano's deprecation. PYMC4 promises great things.
+* [edward2/tfprobability](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/python/edward2): Probabilistic programming in tensorflow. Scalable models, but little docs.
+* [Pyro](https://pyro.ai/): Probabilistic programming in Pytorch. Good docs, scalable models too.
+* [LaplacesDemon](https://cran.r-project.org/web/packages/LaplacesDemon/index.html): Mysterious probabilistic programming package in R with a cult following.
 
-Specific
-* [brms](https://github.com/paul-buerkner/brms) : Generalized linear/non-linear multilevel models
-* [R-INLA](http://www.r-inla.org/) : Latent Gaussian models via Integrated Nested Latent Approximations
+### Specific
+* [brms](https://github.com/paul-buerkner/brms) : Generalized linear/non-linear multilevel models, uses Stan.
+* [R-INLA](http://www.r-inla.org/) : Latent Gaussian models via Integrated Nested Latent Approximations. Really fast compared to MCMC.
+
+### Misc
+* [List of Bayesian inference packages for R](https://cran.r-project.org/web/views/Bayesian.html): Comprehensive list for all Bayesian inference in R
+
 
 Diagnostics and visualization
 * [ArviZ](https://arviz-devs.github.io/arviz/)
@@ -30,6 +38,14 @@ Diagnostics and visualization
 * [Intro to variational inference via mean field approx](https://blog.evjang.com/2016/08/variational-bayes.html)
 * [David Blei's Variational Inference tutorial](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 * [Understanding Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/)
+
+### Michael Betancourt's case studies
+
+Indexed [here](https://betanalpha.github.io/writing/), these deserve a list all to themselves:
+* [Principled Bayesian Worflow](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html): What to know and what to look for when doing Bayesian inference.
+* [Conceptual introduction to Hamiltonian MC](https://arxiv.org/pdf/1701.02434.pdf)
+* [Identifying Bayesian Mixture Models](https://betanalpha.github.io/assets/case_studies/identifying_mixture_models.html)
+* [Diagnosing Biased Inference Using Divergences](https://betanalpha.github.io/assets/case_studies/divergences_and_bias.html)
 
 
 ## People
