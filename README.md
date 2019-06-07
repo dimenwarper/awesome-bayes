@@ -47,6 +47,8 @@ List of resources for bayesian inference
 
 ### MCMC
 * [The MCMC interactive gallery](https://chi-feng.github.io/mcmc-demo/): Build intuition for common MCMC routines using interactive demos. A walkthrough of the demos can be found [here](http://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/).
+* [The MCMC handbook intro to MCMC](https://www.mcmchandbook.net/HandbookChapter1.pdf): A no-frills intro to MCMC
+* [Scaling up Bayesian inference](https://simons.berkeley.edu/sites/default/files/docs/6625/dunsonsimons2017.pdf): For Big Data™
 
 ### Variational Inference
 * [Intro to variational inference via mean field approx](https://blog.evjang.com/2016/08/variational-bayes.html)
@@ -65,6 +67,10 @@ List of resources for bayesian inference
 ### INLA
 * [A gentle INLA tutorial](https://www.precision-analytics.ca/blog-1/inla)
 * [Step by step INLA tutorial](http://www.flutterbys.com.au/stats/tut/tut12.9.html)
+
+### Bayesian deep learning
+* [Yarin Gal's talk on Bayesian Deep Learning](https://www.cs.ox.ac.uk/people/yarin.gal/website/PDFs/2017_OReilly_talk.pdf): Blog post of the talk is also very informative, check it out [here](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
+* [What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
 ### Misc
 * [Probabilistic Numerics](http://probabilistic-numerics.org/): View all numeric optimization through a Bayesian lens
@@ -88,4 +94,5 @@ Indexed [here](https://betanalpha.github.io/writing/), these deserve a list all 
 * [David Blei](http://www.cs.columbia.edu/~blei/)
 * [Andrew Gelman](http://www.stat.columbia.edu/~gelman/)
 * [Dustin Tran](http://dustintran.com/)
+* [Yarin Gal](http://www.cs.ox.ac.uk/people/yarin.gal/website/)
 
