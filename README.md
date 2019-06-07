@@ -6,12 +6,12 @@ List of resources for bayesian inference
 * [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
 * [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 * [Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-E-T-Jaynes/dp/0521592712/ref=as_li_ss_tl?ie=UTF8&qid=1462140419&sr=8-1&keywords=probability+theory+the+logic+science&linkCode=sl1&tag=counbaye09-20&linkId=c8a7186d02be8069fd78b71cce57b3c0)
+* [The Bayesian Choice](https://www.amazon.com/Bayesian-Choice-Decision-Theoretic-Computational-Implementation/dp/0387715983)
 * [Bayesian methods for hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Bayesian Analysis with Python](https://www.amazon.com/gp/product/1789341655/ref=dbs_a_def_rwt_bibl_vppi_i0)
-* [Bayesian Statistics the Fun Way](https://nostarch.com/learnbayes)
 
 
-## Packages
+## Software/packages
 
 ### General inference
 * [BUGS](http://www.openbugs.net/w/FrontPage): Bayesian Inference Using Gibbs Sampling. Oldest of the Bayesian inference platforms, tried and tested. Has a Windows friendly version, WinBUGS. R, python and many other language bindings, GUIs and 
@@ -25,22 +25,53 @@ List of resources for bayesian inference
 ### Specific
 * [brms](https://github.com/paul-buerkner/brms) : Generalized linear/non-linear multilevel models, uses Stan.
 * [R-INLA](http://www.r-inla.org/) : Latent Gaussian models via Integrated Nested Latent Approximations. Really fast compared to MCMC.
+* [bayesmix](https://cran.r-project.org/web/packages/bayesmix/index.html): Finite mixture models with JAGS in R
+* [lmm](https://cran.r-project.org/web/packages/lmm/index.html): Linear mixed models fitted with MCMC
 
 ### Misc
 * [List of Bayesian inference packages for R](https://cran.r-project.org/web/views/Bayesian.html): Comprehensive list for all Bayesian inference in R
 
 
 Diagnostics and visualization
-* [ArviZ](https://arviz-devs.github.io/arviz/)
-* Stan and PyMC have their own tools for model checking, viz, etc.
+* [ArviZ](https://arviz-devs.github.io/arviz/): Mainly for PyMC3
+* Most prob programming packages have their own tools for model checking, viz, etc.
 
-## Blogs and Tutorials
+## Resources, papers, and blogs
 
+### General topics
 * [Michael Clark's Blog on Stat modeling, Bayesian inference](https://m-clark.github.io/documents.html)
+* [Bayesian Spectacles](https://www.bayesianspectacles.org/)
+
+
+### Introductory
+* [Count Bayesie](https://www.countbayesie.com/all-posts): Will Kurt from "Get Programming with Haskell" fame explains basic probability and stats concepts through a Bayesian lens in a fun way. 
+* [How to become a Bayesian in eight easy steps](https://link.springer.com/article/10.3758/s13423-017-1317-5)
+* [Introduction to Bayesian Statistics](https://www.stat.auckland.ac.nz/~brewer/stats331.pdf): Course lectures by Brendon Brewer (University of Auckland)
+* [Michael Jordan's Bayesian Statistics Course Notes](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/lectures/index.html)
+
+### MCMC
 * [The MCMC interactive gallery](https://chi-feng.github.io/mcmc-demo/): Build intuition for common MCMC routines using interactive demos. A walkthrough of the demos can be found [here](http://elevanth.org/blog/2017/11/28/build-a-better-markov-chain/).
+
+### Variational Inference
 * [Intro to variational inference via mean field approx](https://blog.evjang.com/2016/08/variational-bayes.html)
 * [David Blei's Variational Inference tutorial](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+* [Expectation Maximization and Variational Inference](https://chrischoy.github.io/research/Expectation-Maximization-and-Variational-Inference/) 
+
+### Empirical Bayes
 * [Understanding Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/)
+* [Efron's overview of Empirical Bayes](http://statweb.stanford.edu/~ckirby/brad/papers/2013EBModeling.pdf)
+
+### Non-parametrics
+* [Collection of tutorials on non-parametrics](http://stat.columbia.edu/~porbanz/npb-tutorial.html)
+* [Infinite mixture models](https://blog.echen.me/2012/03/20/infinite-mixture-models-with-nonparametric-bayes-and-the-dirichlet-process/)
+* [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
+
+### INLA
+* [A gentle INLA tutorial](https://www.precision-analytics.ca/blog-1/inla)
+* [Step by step INLA tutorial](http://www.flutterbys.com.au/stats/tut/tut12.9.html)
+
+### Misc
+* [Probabilistic Numerics](http://probabilistic-numerics.org/): View all numeric optimization through a Bayesian lens
 
 ### Michael Betancourt's case studies
 
