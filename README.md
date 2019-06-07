@@ -32,9 +32,9 @@ Diagnostics and visualization
 * [ArviZ](https://arviz-devs.github.io/arviz/)
 * Stan and PyMC have their own tools for model checking, viz, etc.
 
-## Tutorials
+## Blogs and Tutorials
 
-* 
+* [Michael Clark's Blog on Stat modeling, Bayesian inference](https://m-clark.github.io/documents.html)
 * [Intro to variational inference via mean field approx](https://blog.evjang.com/2016/08/variational-bayes.html)
 * [David Blei's Variational Inference tutorial](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 * [Understanding Empirical Bayes](http://varianceexplained.org/r/empirical_bayes_baseball/)
