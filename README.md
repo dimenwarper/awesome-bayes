@@ -30,11 +30,7 @@ List of resources for bayesian inference
 
 ### Misc
 * [List of Bayesian inference packages for R](https://cran.r-project.org/web/views/Bayesian.html): Comprehensive list for all Bayesian inference in R
-
-
-Diagnostics and visualization
-* [ArviZ](https://arviz-devs.github.io/arviz/): Mainly for PyMC3
-* Most prob programming packages have their own tools for model checking, viz, etc.
+* [ArviZ](https://arviz-devs.github.io/arviz/): Diagnostics and visualizations, mainly for PyMC3
 
 ## Resources, papers, and blogs
 
