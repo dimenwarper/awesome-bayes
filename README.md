@@ -8,7 +8,7 @@ List of resources for bayesian inference
 * [Probability Theory: The Logic of Science](https://www.amazon.com/Probability-Theory-E-T-Jaynes/dp/0521592712/ref=as_li_ss_tl?ie=UTF8&qid=1462140419&sr=8-1&keywords=probability+theory+the+logic+science&linkCode=sl1&tag=counbaye09-20&linkId=c8a7186d02be8069fd78b71cce57b3c0)
 * [The Bayesian Choice](https://www.amazon.com/Bayesian-Choice-Decision-Theoretic-Computational-Implementation/dp/0387715983)
 * [Bayesian methods for hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-* [Bayesian Analysis with Python](https://www.amazon.com/gp/product/1789341655/ref=dbs_a_def_rwt_bibl_vppi_i0) [errata and extra material](https://github.com/aloctavodia/BAP)
+* [Bayesian Analysis with Python](https://www.amazon.com/gp/product/1789341655/ref=dbs_a_def_rwt_bibl_vppi_i0) | [errata and extra material](https://github.com/aloctavodia/BAP)
 
 
 ## Software/packages
