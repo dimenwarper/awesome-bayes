@@ -21,6 +21,7 @@ List of resources for bayesian inference
 * [edward2/tfprobability](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/python/edward2): Probabilistic programming in tensorflow. Scalable models, but little docs.
 * [Pyro](https://pyro.ai/): Probabilistic programming in Pytorch. Good docs, scalable models too.
 * [LaplacesDemon](https://cran.r-project.org/web/packages/LaplacesDemon/index.html): Mysterious probabilistic programming package in R with a cult following.
+* [WebPPL](http://webppl.org/): Probabilistic programming in the browser.
 
 ### Specific
 * [brms](https://github.com/paul-buerkner/brms) : Generalized linear/non-linear multilevel models, uses Stan.
@@ -31,6 +32,7 @@ List of resources for bayesian inference
 ### Misc
 * [List of Bayesian inference packages for R](https://cran.r-project.org/web/views/Bayesian.html): Comprehensive list for all Bayesian inference in R
 * [ArviZ](https://arviz-devs.github.io/arviz/): ArviZ is a Python package for exploratory analysis of Bayesian models. Includes functions for posterior analysis, sample diagnostics, model checking, and comparison. Works with PyMC3, PyStan, emcee, Pyro and TensorFlow Probability.
+* [StatSim](https://statsim.com/): Browser-based interface to create, share, and perform inference on probabilistic models. Powered by WebPPL and PyMC3.
 
 ## Resources, papers, and blogs
 
