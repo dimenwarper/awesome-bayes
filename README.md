@@ -19,9 +19,11 @@ List of resources for bayesian inference
 * [Stan](https://mc-stan.org/): Full-featured Bayesian inference with R and python bindings. Based on Hamiltonian MC and NUTS. Current favorite of the community it seems with lots of examples, docs.
 * [PyMC3](https://docs.pymc.io/): Probabilistic programming in Python/Theano. PyMC4 is in dev, will use Tensorflow as backend. Great API and interface, but hindered by Theano's deprecation. PYMC4 promises great things.
 * [edward2/tfprobability](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/python/edward2): Probabilistic programming in tensorflow. Scalable models, but little docs.
+* [Zhusuan](https://zhusuan.readthedocs.io/en/latest/): Another probabilistic programming framework built on tensorflow.
 * [Pyro](https://pyro.ai/): Probabilistic programming in Pytorch. Good docs, scalable models too.
 * [LaplacesDemon](https://cran.r-project.org/web/packages/LaplacesDemon/index.html): Mysterious probabilistic programming package in R with a cult following.
 * [WebPPL](http://webppl.org/): Probabilistic programming in the browser.
+* [Turing.jl](https://github.com/TuringLang/Turing.jl): Probabilistic programming in Julia, by Zoubin Ghahramani's lab.
 
 ### Specific
 * [brms](https://github.com/paul-buerkner/brms) : Generalized linear/non-linear multilevel models, uses Stan.
@@ -89,6 +91,7 @@ Indexed [here](https://betanalpha.github.io/writing/), these deserve a list all 
 ## People
 
 * [Michael Jordan](https://people.eecs.berkeley.edu/~jordan/)
+* [Zoubin Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/)
 * [Danielle Navarro](https://compcogscisydney.org/)
 * [Michael Betancourt](https://betanalpha.github.io/)
 * [Dan Simpson](https://twitter.com/dan_p_simpson?lang=en)
