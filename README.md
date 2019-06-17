@@ -24,6 +24,7 @@ List of resources for bayesian inference
 * [LaplacesDemon](https://cran.r-project.org/web/packages/LaplacesDemon/index.html): Mysterious probabilistic programming package in R with a cult following.
 * [WebPPL](http://webppl.org/): Probabilistic programming in the browser.
 * [Turing.jl](https://github.com/TuringLang/Turing.jl): Probabilistic programming in Julia, by Zoubin Ghahramani's lab.
+* [Infer.NET](https://github.com/dotnet/infer): Specializes in running probabilistic inference in factor graphs (Expectation Propagation, Variational Inference). Programs written in .NET.
 
 ### Specific
 * [brms](https://github.com/paul-buerkner/brms) : Generalized linear/non-linear multilevel models, uses Stan.
