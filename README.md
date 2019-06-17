@@ -21,6 +21,7 @@ List of resources for bayesian inference
 * [edward2/tfprobability](https://github.com/tensorflow/probability/tree/master/tensorflow_probability/python/edward2): Probabilistic programming in tensorflow. Scalable models, but little docs.
 * [Zhusuan](https://zhusuan.readthedocs.io/en/latest/): Another probabilistic programming framework built on tensorflow.
 * [Pyro](https://pyro.ai/): Probabilistic programming in Pytorch. Good docs, scalable models too.
+* [Brancher](https://brancher.org/: Probabilistic inference based on auto diff and variational models, also based on Pytorch.
 * [LaplacesDemon](https://cran.r-project.org/web/packages/LaplacesDemon/index.html): Mysterious probabilistic programming package in R with a cult following.
 * [WebPPL](http://webppl.org/): Probabilistic programming in the browser.
 * [Turing.jl](https://github.com/TuringLang/Turing.jl): Probabilistic programming in Julia, by Zoubin Ghahramani's lab.
